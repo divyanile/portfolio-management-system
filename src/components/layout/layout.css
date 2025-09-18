@@ -1,0 +1,13 @@
+.sidebar {
+  width:240px;
+  min-height:100vh;
+  padding:20px;
+  background: #fff;
+  border-right:1px solid #f0f0f0;
+  position: sticky;
+  top: 0;
+}
+.brand { font-weight:700; color:#3c3c3c; margin-bottom:14px; }
+.nav { display:flex; flex-direction:column; gap:10px; }
+.nav a { color:#3c3c3c; text-decoration:none; padding:8px 10px; border-radius:6px; }
+.nav a.active, .nav a:hover { background:#e2e2e2; color:#3c3c3c; font-weight:600; }

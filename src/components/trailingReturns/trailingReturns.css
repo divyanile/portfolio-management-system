@@ -1,0 +1,34 @@
+.trailing-returns-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-size: 14px;
+}
+
+.trailing-returns-table th,
+.trailing-returns-table td {
+  padding: 8px 12px;
+  text-align: center;
+  border: none;
+}
+
+.trailing-returns-table th {
+  background-color: #f9f9f9;
+  font-weight: 600;
+  color: #333;
+}
+
+.trailing-returns-table td:first-child {
+  text-align: left;
+  font-weight: 500;
+}
+
+.trailing-returns-table th:nth-child(10),
+.trailing-returns-table td:nth-child(10) {
+  border-right: 1px solid #ccc;
+}
+.note{
+  color: #333;
+  padding-top: 10px;
+  font-size: 12px;
+}
