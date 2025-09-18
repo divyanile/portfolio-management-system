@@ -2,12 +2,12 @@
   width: 100%;
   border-collapse: separate;
   border-spacing: 0;
-  font-size: 14px;
+  font-size: 1.4rem;
 }
 
 .trailing-returns-table th,
 .trailing-returns-table td {
-  padding: 8px 12px;
+  padding: 0.8rem 1.2rem;
   text-align: center;
   border: none;
 }
@@ -29,6 +29,6 @@
 }
 .note{
   color: #333;
-  padding-top: 10px;
-  font-size: 12px;
+  padding-top: 1rem;
+  font-size: 1.2rem;
 }

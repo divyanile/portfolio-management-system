@@ -11,7 +11,7 @@ export default function TrailingReturns({ data }) {
 
   return (
     <div className="card" style={{ marginBottom: 18 }}>
-      <h4 class>Trailing Returns</h4>
+      <h4>Trailing Returns</h4>
       <table className="table trailing-returns-table">
         <thead>
           <tr>

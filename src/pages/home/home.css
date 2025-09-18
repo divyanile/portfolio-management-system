@@ -1,39 +1,38 @@
 .home-container {
-  padding: 20px 40px;
+  padding: 2rem 4rem;
   background: #f9fafb;
   min-height: 100vh;
 }
 
 .section-title {
-  font-size: 1.25rem;
   font-weight: 600;
-  margin: 20px 0;
+  margin: 2rem 0;
 }
 
 .info-cards {
   display: flex;
-  gap: 20px;
-  margin-bottom: 30px;
+  gap: 2rem;
+  margin-bottom: 3rem;
 }
 
 .info-card {
   flex: 1;
-  padding: 16px;
+  padding: 1.6rem;
   background: #fff;
-  border-radius: 8px;
-  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.08);
-  font-size: 14px;
+  border-radius: 0.8rem;
+  box-shadow: 0rem 0.1rem 0.3rem rgba(0, 0, 0, 0.08);
+  font-size: 1.4rem;
 }
 
 .info-card h3 {
-  margin-bottom: 8px;
+  margin-bottom: 0.8rem;
   font-weight: 600;
 }
 
 .blogs-container {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 2rem;
 }
 
 .blog-card {
@@ -44,22 +43,22 @@
 }
 
 .blog-date {
-  font-size: 13px;
+  font-size: 1.3rem;
   color: #6b7280;
-  margin-bottom: 6px;
+  margin-bottom: 0.6rem;
 }
 
 .blog-title {
-  font-size: 16px;
+  font-size: 1.6rem;
   font-weight: 600;
-  margin-bottom: 6px;
+  margin-bottom: 0.6rem;
   color: #111827;
 }
 
 .blog-description {
-  font-size: 14px;
+  font-size: 1.4rem;
   color: #4b5563;
-  margin-bottom: 8px;
+  margin-bottom: 0.8rem;
 }
 
 .blog-link {

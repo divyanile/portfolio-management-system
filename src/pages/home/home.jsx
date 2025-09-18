@@ -24,7 +24,7 @@ export default function Home() {
       </div>
 
       {/* Blog posts */}
-      <h2 className="section-title">Latest Posts</h2>
+      <h4>Latest Posts</h4>
       <div className="blogs-container">
         {blogs.map((blog, idx) => (
           <div className="blog-card" key={idx}>

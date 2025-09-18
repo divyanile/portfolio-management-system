@@ -144,7 +144,7 @@ const formatDate = (date) => {
   </div>
 </div>
 
-      <canvas ref={chartRef}></canvas>
+      <canvas ref={chartRef} style={{width: '1334 rem'}}></canvas>
     </div>
   );
 }
