@@ -1,6 +1,6 @@
 import React from "react";
 import "./home.css";
-import { blogs } from "./blogdata";
+import { blogs } from "./blogData.js";
 
 export default function Home() {
   return (
